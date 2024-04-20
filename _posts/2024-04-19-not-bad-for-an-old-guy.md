@@ -20,7 +20,9 @@ Anyways. Here I am, again. Still. Alive. Thank God. It hasn't been easy. But I k
 Let's do this.
 
 Check out my [LinkedIn Profile][linkedin-profile] for more info about me, or my [developer website][devsite] to learn more about me. It's got a [one-pager resume][resume] also, though I think my new LI profile is more meaningful by far. 
-Who am I kidding? I built this to impress (or at least, hopefully, satisfy?) the weirdly awesome hiring peeps at Galactic Dev anyways. 
+
+## Who am I kidding? 
+### I built this to impress (or at least, hopefully, satisfy?) the weirdly awesome hiring peeps at Galactic Dev anyways. 
 
 You're gonna hire me, right?
 I'd like that.
