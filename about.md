@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey, I'm a single dad and I'm tired, give me a break. I'm working on it!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here's a picture of some of our kittens to placate you.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+But, no. No kittens for you. Jekyll keeps eating my kittens (photos).
+It's a problem for another day.
+I've got a bedtime, you know.
+Good night.
 
-[jekyll-organization]: https://github.com/jekyll
+![some of Mike's kittens](/assets/images/DSC02394-kittens-hd.webp)
+
+<img src="{{site.baseurl}}/assets/images/DSC02394-kittens-hd.webp">

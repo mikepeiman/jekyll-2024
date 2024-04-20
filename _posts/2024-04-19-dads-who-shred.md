@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Not bad for an old guy'
+title: 'Dads Who Shred'
 date: 2024-04-19 16:00 +0000
 categories: jekyll update
 ---

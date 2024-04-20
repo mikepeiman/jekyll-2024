@@ -21,9 +21,9 @@
 title: Mike Peiman's Jekyll Refresher
 email: hello@mikepeiman.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Mike Peiman,Full-stack Developer, UX/UI | Product Design | Visionary Technologist & Educator | Transforming Health, Learning & Human Potential | Leadership & Coaching
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Mike Peiman, Full-stack Developer, UX/UI | Product Design | Visionary Technologist & Educator | Transforming Health, Learning & Human Potential | Leadership & Coaching
+baseurl: / # the subpath of your site, e.g. /blog
+url: jekyll.mikepeiman.dev # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vividmythos
 github_username:  mikepeiman
 
