@@ -1,3 +1,18 @@
-.test {
-    background: blue;
+body {
+    background: radial-gradient(circle at 20% 50%, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 20%),
+        radial-gradient(circle at 60% 40%, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 20%),
+        radial-gradient(circle at 40% 70%, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 20%),
+        linear-gradient(135deg, rgba(120, 120, 200, 0.2) 0%, rgba(120, 120, 200, 0) 40%),
+        linear-gradient(45deg, rgba(200, 120, 120, 0.2) 0%, rgba(200, 120, 120, 0) 40%),
+        linear-gradient(to right, #8e2de2, #4a00e0);
+    background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%;
+    background-position: 0 0, 0 0, 0 0, 0 0, 0 0, 0 0;
+    background-repeat: no-repeat;
+}
+
+.bg-dark {
+    background-image: radial-gradient(circle at center, #f06d06, #384257),
+        radial-gradient(circle at top right, #f06d06, #384257),
+        linear-gradient(to bottom, #f06d06, #384257);
+    background-size: cover;
 }
