@@ -15,4 +15,6 @@ Good night.
 
 ![some of Mike's kittens](/assets/images/DSC02394-kittens-hd.webp)
 
+Ok great. Fixed that. I needed to create the folders/resources _outside_ of the _site folder, which Jekyll regenerates while serving/building.
+
 <img src="{{site.baseurl}}/assets/images/DSC02394-kittens-hd.webp">
